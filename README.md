@@ -27,4 +27,4 @@ Images taken from [Pinterest - London](https://www.pinterest.co.uk/derekthesec/l
 ### Acknowledgement
 
 - [FreeCodeCamp](https://www.freecodecamp.org)
-- [Pinterest - London](https://www.pinterest.co.uk/london)
+- [Pinterest - London](https://www.pinterest.co.uk/derekthesec/london)
