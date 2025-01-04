@@ -12,7 +12,7 @@ Uses HTML5 and CSS3.  Relative and Absolute CSS.
 
 ## Deployment
 
-On [GitHub Pages](https://derektypist.github.io/build-an-event-flyer-page)
+On [GitHub Pages](https://derektypist.github.io/build-an-event-flyer-page) at the main branch.
 
 ## Credits
 
