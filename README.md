@@ -1,4 +1,5 @@
-# build-an-event-flyer-page
+# Build an Event Flyer Page
+
 Practice aligning elements using absolute and relative CSS.
 
 ## UX
